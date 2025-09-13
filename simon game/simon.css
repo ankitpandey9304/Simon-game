@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: #585785;
+}
+.btn{
+    height: 180px;
+    width: 180px;
+    border-radius: 20%;
+    border: 8px solid black;
+    margin: 2rem;
+    align-content: center;
+}
+.main_box{
+    height: 550px;
+    width: 650px;
+    display: flex;
+    justify-content: center;
+    margin-left: 430px;
+    border-radius: 50%;
+    background-color: goldenrod;
+    padding-top: 50px;
+}
+.red{
+    background-color: #d95980;
+    margin-right: 0px;
+}
+.yellow{
+    background-color: #f99b45;
+    margin-right: 0px;
+}
+.green{
+    background-color: #63aac0;
+    margin-left: 0px;
+}
+.purple{
+    background-color: #819ff9;
+    margin-left: 0px;
+}
+.center_btn{
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    margin-top: 220px;
+    border-radius: 50%;
+    align-content: center;
+}
+.Flash{
+    background-color: white;
+}
+.userflash{
+    background-color: green;
+}
